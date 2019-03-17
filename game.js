@@ -58,6 +58,8 @@
             document.getElementById("userInput").innerHTML +=
                 guessLetter + ", ";
         }
+    
+    
 
         // if you run out of guess and equals zero it increases losses by 1
         if (guessesLeft == 0) {
@@ -73,4 +75,4 @@
             winningLetter = randLetter();
 
         }
-    }; 
+    
