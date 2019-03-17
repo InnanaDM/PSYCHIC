@@ -72,5 +72,5 @@
 
             winningLetter = randLetter();
 
-        }
+        } 
     }; 
